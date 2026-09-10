@@ -34,7 +34,7 @@ I'm a Mechatronics Engineering student who likes building things and figuring ou
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/abadge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -58,9 +58,11 @@ while Curiosity == True:
 
 A lightweight naming assistant that takes a website brief, extracts its direction, generates naming ideas, and checks for potential conflicts across domains and web results.
 
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
 
 <a href="https://github.com/ProfHebbie/Name-Forge">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -74,7 +76,9 @@ A lightweight naming assistant that takes a website brief, extracts its directio
 
 A simple desktop mood journal where you can log a mood, add a note, switch themes, and look back through saved entries.
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
 
 <a href="https://github.com/ProfHebbie/Mood-tracker">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
